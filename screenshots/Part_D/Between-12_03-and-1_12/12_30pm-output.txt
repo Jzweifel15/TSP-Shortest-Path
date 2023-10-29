@@ -1,0 +1,424 @@
+PS C:\Users\jzwei\OneDrive\Desktop\C950_PA_Task_2_Attempt_2> & C:/Users/jzwei/AppData/Local/Programs/Python/Python39/python.exe c:/Users/jzwei/OneDrive/Desktop/C950_PA_Task_2_Attempt_2/main.py
+******************************
+*                            *
+*   WGUPS Delivery Program   *
+*                            *
+******************************
+
+Truck 1 traveled 27.6 miles.
+Truck 2 traveled 41.9 miles.
+Truck 3 traveled 33.4 miles.
+All packages were delivered in 102.9 miles.
+
+
+Select an option below to begin the program:
+    1. Get All Package Statuses with a Time       
+    2. Get a Single Package Status with a Time
+    'Q' or 'q' to quit the program
+1
+Enter a time (Format -> HH:MM:SS): 12:30:00
+
+Package ID: 1
+Delivery Address: 195 W Oakland Ave
+Delivery City: Salt Lake City
+Delivery Zipcode: 84115
+Delivery Deadline: 10:30:00
+Package Weight: 21
+Package is/was on: First Truck
+Delivery Status: Delivered
+Delivery Time: 8:39:00
+
+Package ID: 2
+Delivery Address: 2530 S 500 E
+Delivery City: Salt Lake City
+Delivery Zipcode: 84106
+Delivery Deadline: EOD
+Package Weight: 44
+Package is/was on: Third Truck
+Delivery Status: Delivered
+Delivery Time: 9:29:00
+
+Package ID: 3
+Delivery Address: 233 Canyon Rd
+Delivery City: Salt Lake City
+Delivery Zipcode: 84103
+Delivery Deadline: EOD
+Package Weight: 2
+Package is/was on: Second Truck
+Delivery Status: Delivered
+Delivery Time: 11:54:20
+
+Package ID: 4
+Delivery Address: 380 W 2880 S
+Delivery City: Salt Lake City
+Delivery Zipcode: 84115
+Delivery Deadline: EOD
+Package Weight: 4
+Package is/was on: Third Truck
+Delivery Status: Delivered
+Delivery Time: 9:36:00
+
+Package ID: 5
+Delivery Address: 410 S State St
+Delivery City: Salt Lake City
+Delivery Zipcode: 84111
+Delivery Deadline: EOD
+Package Weight: 5
+Package is/was on: Third Truck
+Delivery Status: Delivered
+Delivery Time: 10:53:00
+
+Package ID: 6
+Delivery Address: 3060 Lester St
+Delivery City: West Valley City
+Delivery Zipcode: 84119
+Delivery Deadline: 10:30:00
+Package Weight: 88
+Package is/was on: Third Truck
+Delivery Status: Delivered
+Delivery Time: 9:46:40
+
+Package ID: 7
+Delivery Address: 1330 2100 S
+Delivery City: Salt Lake City
+Delivery Zipcode: 84106
+Delivery Deadline: EOD
+Package Weight: 8
+Package is/was on: Third Truck
+Delivery Status: Delivered
+Delivery Time: 10:37:40
+
+Package ID: 8
+Delivery Address: 300 State St
+Delivery City: Salt Lake City
+Delivery Zipcode: 84103
+Delivery Deadline: EOD
+Package Weight: 9
+Package is/was on: Third Truck
+Delivery Status: Delivered
+Delivery Time: 10:56:20
+
+Package ID: 9
+Delivery Address: 410 S State St
+Delivery City: Salt Lake City
+Delivery Zipcode: 84111
+Delivery Deadline: EOD
+Package Weight: 2
+Package is/was on: Third Truck
+Delivery Status: Delivered
+Delivery Time: 10:53:00
+
+Package ID: 10
+Delivery Address: 600 E 900 South
+Delivery City: Salt Lake City
+Delivery Zipcode: 84105
+Delivery Deadline: EOD
+Package Weight: 1
+Package is/was on: Third Truck
+Delivery Status: Delivered
+Delivery Time: 10:47:00
+
+Package ID: 11
+Delivery Address: 2600 Taylorsville Blvd
+Delivery City: Salt Lake City
+Delivery Zipcode: 84118
+Delivery Deadline: EOD
+Package Weight: 1
+Package is/was on: Third Truck
+Delivery Status: Delivered
+Delivery Time: 10:03:00
+
+Package ID: 12
+Delivery Address: 3575 W Valley Central Station bus Loop
+Delivery City: West Valley City
+Delivery Zipcode: 84119
+Delivery Deadline: EOD
+Package Weight: 1
+Package is/was on: Second Truck
+Delivery Status: Delivered
+Delivery Time: 12:18:20
+
+Package ID: 13
+Delivery Address: 2010 W 500 S
+Delivery City: Salt Lake City
+Delivery Zipcode: 84104
+Delivery Deadline: 10:30:00
+Package Weight: 2
+Package is/was on: First Truck
+Delivery Status: Delivered
+Delivery Time: 9:18:00
+
+Package ID: 14
+Delivery Address: 4300 S 1300 E
+Delivery City: Millcreek
+Delivery Zipcode: 84117
+Delivery Deadline: 10:30:00
+Package Weight: 88
+Package is/was on: First Truck
+Delivery Status: Delivered
+Delivery Time: 8:06:20
+
+Package ID: 15
+Delivery Address: 4580 S 2300 E
+Delivery City: Holladay
+Delivery Zipcode: 84117
+Delivery Deadline: 9:00:00
+Package Weight: 4
+Package is/was on: First Truck
+Delivery Status: Delivered
+Delivery Time: 8:13:00
+
+Package ID: 16
+Delivery Address: 4580 S 2300 E
+Delivery City: Holladay
+Delivery Zipcode: 84117
+Delivery Deadline: 10:30:00
+Package Weight: 88
+Package is/was on: First Truck
+Delivery Status: Delivered
+Delivery Time: 8:13:00
+
+Package ID: 17
+Delivery Address: 3148 S 1100 W
+Delivery City: Salt Lake City
+Delivery Zipcode: 84119
+Delivery Deadline: EOD
+Package Weight: 2
+Package is/was on: Second Truck
+Delivery Status: Out for Delivery
+Delivery Time: 12:39:40
+
+Package ID: 18
+Delivery Address: 1488 4800 S
+Delivery City: Salt Lake City
+Delivery Zipcode: 84123
+Delivery Deadline: EOD
+Package Weight: 6
+Package is/was on: Second Truck
+Delivery Status: Delivered
+Delivery Time: 11:12:20
+
+Package ID: 19
+Delivery Address: 177 W Price Ave
+Delivery City: Salt Lake City
+Delivery Zipcode: 84115
+Delivery Deadline: EOD
+Package Weight: 37
+Package is/was on: First Truck
+Delivery Status: Delivered
+Delivery Time: 8:49:40
+
+Package ID: 20
+Delivery Address: 3595 Main St
+Delivery City: Salt Lake City
+Delivery Zipcode: 84115
+Delivery Deadline: 10:30:00
+Package Weight: 37
+Package is/was on: First Truck
+Delivery Status: Delivered
+Delivery Time: 8:48:00
+
+Package ID: 21
+Delivery Address: 3595 Main St
+Delivery City: Salt Lake City
+Delivery Zipcode: 84115
+Delivery Deadline: EOD
+Package Weight: 3
+Package is/was on: Second Truck
+Delivery Status: Delivered
+Delivery Time: 10:26:40
+
+Package ID: 22
+Delivery Address: 6351 South 900 East
+Delivery City: Murray
+Delivery Zipcode: 84121
+Delivery Deadline: EOD
+Package Weight: 2
+Package is/was on: Second Truck
+Delivery Status: Delivered
+Delivery Time: 10:44:20
+
+Package ID: 23
+Delivery Address: 5100 South 2700 West
+Delivery City: Salt Lake City
+Delivery Zipcode: 84118
+Delivery Deadline: EOD
+Package Weight: 5
+Package is/was on: Second Truck
+Delivery Status: Delivered
+Delivery Time: 11:10:20
+
+Package ID: 24
+Delivery Address: 5025 State St
+Delivery City: Murray
+Delivery Zipcode: 84107
+Delivery Deadline: EOD
+Package Weight: 7
+Package is/was on: Second Truck
+Delivery Status: Delivered
+Delivery Time: 10:34:20
+
+Package ID: 25
+Delivery Address: 5383 South 900 East #104
+Delivery City: Salt Lake City
+Delivery Zipcode: 84117
+Delivery Deadline: 10:30:00
+Package Weight: 7
+Package is/was on: Third Truck
+Delivery Status: Delivered
+Delivery Time: 9:13:00
+
+Package ID: 26
+Delivery Address: 5383 South 900 East #104
+Delivery City: Salt Lake City
+Delivery Zipcode: 84117
+Delivery Deadline: EOD
+Package Weight: 25
+Package is/was on: Second Truck
+Delivery Status: Delivered
+Delivery Time: 10:40:00
+
+Package ID: 27
+Delivery Address: 1060 Dalton Ave S
+Delivery City: Salt Lake City
+Delivery Zipcode: 84104
+Delivery Deadline: EOD
+Package Weight: 5
+Package is/was on: Second Truck
+Delivery Status: Delivered
+Delivery Time: 11:35:00
+
+Package ID: 28
+Delivery Address: 2835 Main St
+Delivery City: Salt Lake City
+Delivery Zipcode: 84115
+Delivery Deadline: EOD
+Package Weight: 7
+Package is/was on: Third Truck
+Delivery Status: Delivered
+Delivery Time: 9:32:40
+
+Package ID: 29
+Delivery Address: 1330 2100 S
+Delivery City: Salt Lake City
+Delivery Zipcode: 84106
+Delivery Deadline: 10:30:00
+Package Weight: 2
+Package is/was on: First Truck
+Delivery Status: Delivered
+Delivery Time: 8:29:40
+
+Package ID: 30
+Delivery Address: 300 State St
+Delivery City: Salt Lake City
+Delivery Zipcode: 84103
+Delivery Deadline: 10:30:00
+Package Weight: 1
+Package is/was on: First Truck
+Delivery Status: Delivered
+Delivery Time: 9:32:00
+
+Package ID: 31
+Delivery Address: 3365 S 900 W
+Delivery City: Salt Lake City
+Delivery Zipcode: 84119
+Delivery Deadline: 10:30:00
+Package Weight: 1
+Package is/was on: First Truck
+Delivery Status: Delivered
+Delivery Time: 8:58:40
+
+Package ID: 32
+Delivery Address: 3365 S 900 W
+Delivery City: Salt Lake City
+Delivery Zipcode: 84119
+Delivery Deadline: EOD
+Package Weight: 1
+Package is/was on: Third Truck
+Delivery Status: Delivered
+Delivery Time: 9:41:40
+
+Package ID: 33
+Delivery Address: 2530 S 500 E
+Delivery City: Salt Lake City
+Delivery Zipcode: 84106
+Delivery Deadline: EOD
+Package Weight: 1
+Package is/was on: Third Truck
+Delivery Status: Delivered
+Delivery Time: 9:29:00
+
+Package ID: 34
+Delivery Address: 4580 S 2300 E
+Delivery City: Holladay
+Delivery Zipcode: 84117
+Delivery Deadline: 10:30:00
+Package Weight: 2
+Package is/was on: First Truck
+Delivery Status: Delivered
+Delivery Time: 8:13:00
+
+Package ID: 35
+Delivery Address: 1060 Dalton Ave S
+Delivery City: Salt Lake City
+Delivery Zipcode: 84104
+Delivery Deadline: EOD
+Package Weight: 88
+Package is/was on: Second Truck
+Delivery Status: Delivered
+Delivery Time: 11:35:00
+
+Package ID: 36
+Delivery Address: 2300 Parkway Blvd
+Delivery City: West Valley City
+Delivery Zipcode: 84119
+Delivery Deadline: EOD
+Package Weight: 88
+Package is/was on: Second Truck
+Delivery Status: Delivered
+Delivery Time: 11:25:40
+
+Package ID: 37
+Delivery Address: 410 S State St
+Delivery City: Salt Lake City
+Delivery Zipcode: 84111
+Delivery Deadline: 10:30:00
+Package Weight: 2
+Package is/was on: First Truck
+Delivery Status: Delivered
+Delivery Time: 9:28:40
+
+Package ID: 38
+Delivery Address: 410 S State St
+Delivery City: Salt Lake City
+Delivery Zipcode: 84111
+Delivery Deadline: EOD
+Package Weight: 9
+Package is/was on: Second Truck
+Delivery Status: Delivered
+Delivery Time: 11:51:00
+
+Package ID: 39
+Delivery Address: 2010 W 500 S
+Delivery City: Salt Lake City
+Delivery Zipcode: 84104
+Delivery Deadline: EOD
+Package Weight: 9
+Package is/was on: Second Truck
+Delivery Status: Delivered
+Delivery Time: 11:40:20
+
+Package ID: 40
+Delivery Address: 380 W 2880 S
+Delivery City: Salt Lake City
+Delivery Zipcode: 84115
+Delivery Deadline: 10:30:00
+Package Weight: 45
+Package is/was on: First Truck
+Delivery Status: Delivered
+Delivery Time: 8:42:40
+
+Select an option below to begin the program:
+    1. Get All Package Statuses with a Time
+    2. Get a Single Package Status with a Time
+    'Q' or 'q' to quit the program
